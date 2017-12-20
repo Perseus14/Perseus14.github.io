@@ -17,3 +17,4 @@ where you want to predict values of  y for some previously unseen value of x.
 We first assume that the variables form some sort of linear relationship (i.e)  
 	$$ y = m*x + c $$
 
+{% include lib/mathjax.html %}
