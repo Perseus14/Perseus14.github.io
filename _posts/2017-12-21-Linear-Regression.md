@@ -32,7 +32,7 @@ Lower the error, Closer the Line, Better the model !!
 
 
 	
-{% include lib/mathjax.html %}%} %}
+{% include lib/mathjax.html %}
 
 
 
