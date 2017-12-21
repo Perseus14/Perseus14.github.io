@@ -20,8 +20,8 @@ We first assume that the variables form some sort of linear relationship (i.e)
 Objective is to find $m$ and $c$ that can fit the dataset as closely as it can. "Closely" here means
 the line should pass through as many points as it can. To calculate closeness we first calculate the error, (i.e) how far off is the line from the point which is given by the formula
 	
-		$$ Error  = abs(y' - y)^2 $$   
-		$$ Error = abs(y' -  (m*x' + c))^2  $$  
+	$$ Error  = abs(y' - y)^2 $$   
+	$$ Error = abs(y' -  (m*x' + c))^2  $$  
 
 where $$y'$$ means the actual value  and $$y$$ the predicted value for some $$x'$$ . 
 
@@ -31,4 +31,4 @@ Lower the error, Closer the Line, Better the model !!
 
 
 	
-{% include lib/mathjax.html %}
+{% include lib/mathjax.html %}%}
